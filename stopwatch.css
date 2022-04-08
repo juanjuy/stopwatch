@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(60, 168, 168);
+}
+
+p {
+  font-size: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+#buttons {
+  width: 100%;
+  text-align: center;
+}
